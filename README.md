@@ -17,6 +17,8 @@ The styles in your [design file](/design/desktop.jpg) include bright colors and 
 
 ## Instructions
 
+## Part 1
+
 ### Task 1: Set Up The Project With Git
 
 Follow these steps to set up and work on your project:
@@ -31,8 +33,7 @@ Follow these steps to set up and work on your project:
 
 Once your repository is set up, practice what you learned today to style the site according to the given design. Your complete project should look similar to the desktop image. You should take the following actions, at a minimum:
 
-- [ ] Link your CSS stylesheet in the `index.html` and implement a CSS reset 
-- [ ] Markup html semantically, such that it can be styled according to the given desktop image
+- [ ] Link your CSS stylesheet in the `index.html` 
 - [ ] Color the background of items in the navigation bar and footer with the following colors:
   - [ ] Plan your Visit: `#FF764E`
   - [ ] Learn About the Park: `#5ED3EB`
@@ -50,8 +51,9 @@ Once your repository is set up, practice what you learned today to style the sit
   - [ ] Centered content and margins around content
   - [ ] Footer image positioning
 
-**Throughout your design you should avoid static units (pixels), and should instead use responsive units wherever possible.**
+## Part 2
 
+**Throughout your design you should avoid static units (pixels), and should instead use responsive units wherever possible.**
 
 ### Task 3: Stretch Goals
 
@@ -66,7 +68,9 @@ The following goals are designed to stretch your knowledge and may require addit
 
 👋 [Assignment help: w3 CSS tutorials](https://www.w3schools.com/css/)
 
-👀 [Yosemite National Park Official Website](https://www.nps.gov/yose/index.htm)
+👋 [Lecture 1: Intro to Web & HTML](https://nyu.zoom.us/rec/share/uYxaUyb-WJMWITO0EHEKR_0oHJUHhlO7RUAaKvOWS9b1jVLpI-tJaTMj0PZhr_uN.eyEyJcFBZoY8EIsa)
+👋 [Lecture 2: Intro to CSS](https://nyu.zoom.us/rec/share/Y2rKnTBfKcTybJS8il1y-8Q85TekR1OkCx1gECOQeUtj0eear_UTeGio5M8U.uLuwao4XxjjINiaG)
+
 
 ## Submission format
 
