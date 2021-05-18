@@ -6,8 +6,8 @@
 
 - learn about the box model and be able to explain its properties
 - demonstrate CSS specificity and inheritance to create and update styles
-- implement a CSS reset and understand why it’s important for cross-browser development
-- describe and use responsive units (px, em, rem, %, and vw.vh) to create a fully responsive website
+- implement a CSS reset and understand why it’s important for cross-browser development [Implement Later]
+- describe and use responsive units (px, em, rem, %, and vw.vh) to create a fully responsive website [Implement Later]
 
 ## Introduction
 
