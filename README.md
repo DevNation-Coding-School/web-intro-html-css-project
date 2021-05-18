@@ -1,4 +1,4 @@
-# Intro CSS Module Project
+# Intro HTML & CSS Module Project - Basic 1
 
 ## User Interface and Git
 
